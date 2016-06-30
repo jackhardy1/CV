@@ -3,24 +3,24 @@
 
 I am Jack. Enthusiastic. Curious. Personable. Junior Developer.
 
-If I had to describe myself to a rubber duck, I would say ->  "I am an empathetic individual - calm yet driven. I am easily excited by & driven by change, and love being involved in a fast-paced environment. I love learning from others and being surrounded by interesting people. I have an inquisitive & creative mind, and love solving problems"
+If I had to describe myself to a rubber duck, I would say ->  "I am an empathetic individual - calm yet driven. I am easily excited by and driven by change, and love being involved in a fast-paced environment. I love learning from others and being surrounded by interesting people. I have an inquisitive & creative mind, and love solving problems"
 
-The rubber duck might ask me -> "interesting.. but what does that have to do with wanting to be a developer".
+The rubber duck might ask me -> "interesting... but what does that have to do with wanting to be a developer?".
 
-I might respond with -> " well... good question duck... for me programming is like playing with lego online, lots of puzzles one after another. Who wouldn't want to play with puzzles all day? Coming up with creative solutions as a programmer is a dream - well my dream job anyway. I'm not afraid of a challenge and learning something new, in fact i'm hungry for it. It's also about my joy of working with people, and i've found through pairing and working with others you can learn so much & conquer pretty much anything as a team "
+I might respond with -> " well... good question duck... for me programming is like playing with lego online, lots of puzzles one after another. Who wouldn't want to play with puzzles all day? Coming up with creative solutions as a programmer is a dream - well my dream job anyway. I'm not afraid of a challenge and learning something new, in fact I'm hungry for it. It's also about my joy of working with people, and I've found through pairing and working with others you can learn so much & conquer pretty much anything as a team "
 
-I've just finished an intensive 12-week coding bootcamp at Makers Academy, where i've learned how to apply extreme programming principles with elegantly written code. We've learned how to learn completely new technologies on our own, how to solve problems individually in a calm and focused manner, and how to work well with others. I'm now searching for a job that adheres to the same values that i've learned here.
+I've just finished an intensive 12-week coding bootcamp at Makers Academy, where I've learned how to apply extreme programming principles with elegantly written code. We've learned how to learn completely new technologies on our own, how to solve problems individually in a calm and focused manner, and how to work well with others. I'm now searching for a job that adheres to the same values that I've learned here.
 
 #### Curious Mind
 - Have travelled many parts of the world, lived in 4 different countries, worked in over 5 completely different industries, and gained a great understanding of how people work and what people need.
-- Countries i've lived and worked in: Colombia, Italy, Spain.
-- Industries i've worked in: Digital Publishing, Advertising, Finance, Education, Events.
+- Countries I've lived and worked in: Colombia, Italy, Spain.
+- Industries I've worked in: Digital Publishing, Advertising, Finance, Education, Events.
 - Happiest when able to be continuously learning.
 
 #### Communication
 - Really enjoy pairing & working with people to build great code.
 - Good communicator from many years as a teacher.
-- Years of experience working in sales dealing with demanding client.
+- Years of experience working in sales dealing with demanding clients.
 - Great listener, good at taking feedback on board.
 - Speak Italian and Spanish well.
 
