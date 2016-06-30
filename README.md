@@ -7,11 +7,9 @@ If I had to describe myself to a rubber duck, I would say ->  "I am an empatheti
 
 The rubber duck might ask me -> "interesting.. but what does that have to do with wanting to be a developer".
 
-I might respond with -> " well... good question duck... for me programming is like playing with lego online, lots of puzzles one after another. Who wouldn't want to play with puzzles all day? Coming up with creative solutions as a programmer is a dream - well my dream job anyway.. I'm not afraid of a challenge and learning something new, in fact i'm hungry for it. It's also about my joy of working with people, and i've found through pairing and working with others you can learn so much & conquer pretty much anything as a team "
+I might respond with -> " well... good question duck... for me programming is like playing with lego online, lots of puzzles one after another. Who wouldn't want to play with puzzles all day? Coming up with creative solutions as a programmer is a dream - well my dream job anyway. I'm not afraid of a challenge and learning something new, in fact i'm hungry for it. It's also about my joy of working with people, and i've found through pairing and working with others you can learn so much & conquer pretty much anything as a team "
 
 I've just finished an intensive 12-week coding bootcamp at Makers Academy, where i've learned how to apply extreme programming principles with elegantly written code. We've learned how to learn completely new technologies on our own, how to solve problems individually in a calm and focused manner, and how to work well with others. I'm now searching for a job that adheres to the same values that i've learned here.
-
-Available from 4th July
 
 #### Curious Mind
 - Have travelled many parts of the world, lived in 4 different countries, worked in over 5 completely different industries, and gained a great understanding of how people work and what people need.
@@ -21,36 +19,37 @@ Available from 4th July
 
 #### Communication
 - Really enjoy pairing & working with people to build great code.
-- Good communicator from many years as a teacher & working in sales.
+- Good communicator from many years as a teacher.
+- Years of experience working in sales dealing with demanding client.
 - Great listener, good at taking feedback on board.
 - Speak Italian and Spanish well.
+
+#### Self Motivated
+- Started my own company at 23 (Learn Business English Direct), where I set up a language school for business people in a completely different country - Colombia. I had to source all the students, create the curriculum and handle finances.
+- Cycled from London to Sicily in 5 weeks with 1 day break. Not one to give up easily.
 
 #### Problem Solving
 - Have been heavily involved with strategy in previous jobs & really enjoyed it:
   * I consulted advertising agencies on their new business strategy when working at Ingenuity ABM, a new business consultancy and really enjoyed it. I would describe myself as a big-picture thinker.
-
-#### Self Motivated
-- Cycled from London to Sicily in 5 weeks with 1 day break. Not one to give up easily.
-- Started my own company at 23 (Learn Business English Direct), where I set up a language school for business people in a completely different country - Colombia. I had to source all the students, create the curriculum and handle finances.
+- Keen chess player
 
 #### Ping Pong
-- Dynamic server, backhander, good all round player
+- Dynamic server, strong backhand, good all round player
 
 ## Tech Education
 
 #### Makers Academy (April 2016 to July 2016)
 
-- Agile methodologies, Test Driven Development, Behaviour Driven Development
+- Agile methodologies, Test Driven Development, Behaviour Driven Development, OOD, SOLID, MVC
 - Independent learner and problem-solver, but also enjoy pairing and team work.
-- OOP, TDD, SOLID, MVC, DDD, BDD
 - Technologies: Ruby, Rails, Javascript, AngularJS, Sinatra, Ionic, JQuery, PostreSQL
-- Testing: Rspec, Jasmine, Mocha, Karma, Protractor, Capybara
+- Testing: Rspec, Jasmine, Karma, Protractor, Capybara
 
 ### Project Examples ###
 
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
-|[**Splitter**](https://github.com/jackhardy1/splitter-frontend)| A bill splitter app, which uses optical character recognition to convert an image of a receipt to an editable list on an ios / android app, making the payment process less awkward, quicker & easier. For this project, we used a completely de-coupled front-end and back-end. The backend we build with Ruby on Rails and the front-end with AngularJS and Ionic, which was a challenge to get them to communicate but learned a lot in the process. See https://vimeo.com/172722048 for a live demo | AngularJS, Ionic, Ruby on Rails, Postgres | Karma, Protractor, Rspec |
+|[**Splitter**](https://github.com/jackhardy1/splitter-frontend)| A bill splitter app, which uses optical character recognition to convert an image of a receipt to an editable list on an ios / android app, making the payment process less awkward, quicker & easier. For this project, we used a completely de-coupled frontend and backend. The backend we build with Ruby on Rails to handle most of the logic, and the frontend with AngularJS and Ionic. See https://vimeo.com/172722048 for a live demo | AngularJS, Ionic, Ruby on Rails, Postgres | Karma, Protractor, Rspec |
 |[**Rails-Cleaner**](https://github.com/jackhardy1/rails_cleaner)| A gem built for Ruby on Rails, allowing you to get rid of unnecessary files. Available to download: https://rubygems.org/gems/rails_cleaner| Ruby on Rails | Rspec |
 |[**MakersBnB**](https://github.com/jackhardy1/MakersBnB)|A clone of AirBnb which allows you to view, request and book places to stay |Ruby, Sinatra, Postgres | RSpec, Capybara |
 
