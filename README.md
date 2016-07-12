@@ -4,6 +4,7 @@
 - Email: jackhardy1@gmail.com
 - Phone: 07453 836 560
 
+#### My story
 I am Jack. Enthusiastic. Curious. Personable. Junior Developer.
 
 If I had to describe myself to a rubber duck, I would say ->  "I am an empathetic individual - calm yet driven. I am easily excited by and driven by change, and love being involved in a fast-paced environment. I love learning from others and being surrounded by interesting people. I have an inquisitive & creative mind, and love solving problems"
