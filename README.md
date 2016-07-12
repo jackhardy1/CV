@@ -11,7 +11,7 @@ I might respond with -> " well... good question duck... for me programming is li
 
 I've just finished an intensive 12-week coding bootcamp at Makers Academy, where I've learned how to apply extreme programming principles with elegantly written code. We've learned how to learn completely new technologies on our own, how to solve problems individually in a calm and focused manner, and how to work well with others. I'm now searching for a job that adheres to the same values that I've learned here.
 
-##Contact
+#### Contact
 - Email: jackhardy1@gmail.com
 - Phone: 07453 836 560
 
