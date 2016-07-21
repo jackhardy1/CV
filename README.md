@@ -2,7 +2,7 @@
 ## Jack Hardy
 #### Contact
 - Email: jackhardy1@gmail.com
-- Phone: 07453 836 560
+- Phone: 07740 779 375
 
 #### About me
 I am Jack. Enthusiastic. Curious. Personable. Junior Developer.
